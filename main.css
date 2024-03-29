@@ -1,0 +1,61 @@
+body {
+    font-family: "roboto", sans-serif;
+}
+
+.reddit-mono {
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar {
+    background-color: #00BFFF;
+}
+
+.navbar-brand img {
+    height: 100px;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #00BFFF;
+}
+
+#cabecalho .nav .nav-link,
+.nav-personagens .nav-link.active:hover {
+    color: #fff;
+}
+
+.nav-personagens .nav-link.active,
+#duvidas button {
+    background-color: #00BFFF;
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #F0F8FF;
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+#sobre,
+#personagens {
+    background-color: #F0F8FF;
+}
+
+.text-colored {
+    color: #00BFFF;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
